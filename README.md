@@ -6,3 +6,5 @@
         Matcher m = p.matcher(input);
         return m.matches();
 每个正则可能还有待优化的地方，您如有更好的方式实现某一个功能的验证，欢迎提出来大家一起讨论。 
+
+Note：搬运自download.csdn.net/detail/u014608640/7316565
